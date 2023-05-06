@@ -1,8 +1,12 @@
-Hello, world
+I hope you leave emails.
 
-Hope you leave emil let us get started  \
-when you spawed  find a tree.  \   
-stare choping go in to you'r inventory  \
-and find weden plancs  clic thit.  \
-got thit.  \
-thin craft a crfting tabel  \
+Let us get started.  \
+When you spawn find a tree.  \
+Start chopping. Go in to your inventory  \
+and find wooden planks.  Click them.  \
+got it?  \
+
+* Craft a crafting table.
+* Craft some sticks.
+
+Put your crafting  table.
