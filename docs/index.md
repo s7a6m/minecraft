@@ -9,5 +9,5 @@ got it?
 * Craft a crafting table.
 * Craft some sticks.
 
-Put your crafting table down.  \
+Put your crafting table down.  
 
