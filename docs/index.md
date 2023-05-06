@@ -10,4 +10,5 @@ got it?
 * Craft some sticks.
 
 Put your crafting table down.  
-
+Click it.  \
+and find a wooden picacx.  \
